@@ -1,2 +1,3 @@
 # Estudos-React
- Repositorio de estuidos sobre Node.JS
+ Repositorio Sobre os meus estudos sobre React 
+ 
